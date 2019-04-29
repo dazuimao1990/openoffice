@@ -10,7 +10,7 @@ yum -y install wget && \
  
 #下载安装包
  
-wget https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.6/binaries/zh-CN/Apache_OpenOffice_4.1.6_Linux_x86-64_install-rpm_zh-CN.tar.gz && \
+wget http://goodrain-pkg.oss-cn-shanghai.aliyuncs.com/apps/openoffice/Apache_OpenOffice_4.1.5_Linux_x86-64_install-rpm_zh-CN.tar.gz -O Apache_OpenOffice_4.1.6_Linux_x86-64_install-rpm_zh-CN.tar.gz && \
  
 #解压缩
  
